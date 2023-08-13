@@ -1,6 +1,11 @@
-### Chris Ferrell, Co-founder @ HyprWin Inc.
+# Chris Ferrell
+Co-founder at HyprWin Inc.
 
-<!--
-**bigscotia10/bigscotia10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Website: [www.hyprwin.com](https://www.hyprwin.com)
+📧 Email: [chris@hyprwin.com](mailto:chris@hyprwin.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bigscotia10)](https://github.com/ryo-ma/github-profile-trophy)
+## About Me
+👨‍💻building a sales enablement platform to accelerate your wins. 
+
+## Achievements
+Check out my [GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=bigscotia10) to see my GitHub accomplishments.
