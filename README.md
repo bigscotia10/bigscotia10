@@ -5,7 +5,6 @@ Co-founder at HyprWin Inc.
 📧 Email: [chris@hyprwin.com](mailto:chris@hyprwin.com)
 
 ## About Me
-👨‍💻building a sales enablement platform to accelerate your wins. 
+👨‍💻building a sales enablement platform to accelerate your sales. 
 
-## Achievements
-Check out my [GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=bigscotia10) to see my GitHub accomplishments.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bigscotia10)
