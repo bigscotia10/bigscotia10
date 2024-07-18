@@ -1,5 +1,5 @@
 # Chris Ferrell
-chris.ferrell@pettygrovefull.com
+chris@valkit.ai
 
 ## About Me
-👨‍💻 Technical Co-founder at HyprWin Inc, and Co-Founder and Lead Consultant at AppAI.
+👨‍💻 Technical Co-founder at valkit.ai, HyprWin Inc.
